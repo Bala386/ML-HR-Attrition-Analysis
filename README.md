@@ -28,7 +28,13 @@ The goal is to identify the key factors influencing employee turnover and predic
    - Logistic Regression, Random Forest, XGBoost  
    - Hyperparameter tuning  
 4. **Model Evaluation**  
-   - Accuracy, Precision, Recall, F1-Score  
+   - Accuracy, Precision, Recall, F1-Score
+     
+ ## 📊 Visualization Example
+
+Here’s the boxplot showing the relationship between **Monthly Income** and **Attrition**:
+
+![Income vs Attrition](income_vs_attrition.png) 
 
 ## 🚀 How to Run
 1. Clone this repository:
